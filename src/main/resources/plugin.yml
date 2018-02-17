@@ -1,0 +1,3 @@
+name: PacifistTeachPlugin
+version: ${project.version}
+main: pacifist.teach.PacifistTeachPlugin
